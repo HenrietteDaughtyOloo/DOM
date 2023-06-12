@@ -1,0 +1,11 @@
+#users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.people{
+    border: solid rgb(122, 59, 122);
+    border-radius: 5px;
+    margin-bottom: 2%;
+    text-align: center;
+}
